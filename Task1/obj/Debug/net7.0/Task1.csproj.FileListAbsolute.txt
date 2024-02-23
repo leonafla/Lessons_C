@@ -1,0 +1,14 @@
+D:\2024-kurs-razrabotchik\Lessons_C\Task1\bin\Debug\net7.0\Task1.exe
+D:\2024-kurs-razrabotchik\Lessons_C\Task1\bin\Debug\net7.0\Task1.deps.json
+D:\2024-kurs-razrabotchik\Lessons_C\Task1\bin\Debug\net7.0\Task1.runtimeconfig.json
+D:\2024-kurs-razrabotchik\Lessons_C\Task1\bin\Debug\net7.0\Task1.dll
+D:\2024-kurs-razrabotchik\Lessons_C\Task1\bin\Debug\net7.0\Task1.pdb
+D:\2024-kurs-razrabotchik\Lessons_C\Task1\obj\Debug\net7.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\2024-kurs-razrabotchik\Lessons_C\Task1\obj\Debug\net7.0\Task1.AssemblyInfoInputs.cache
+D:\2024-kurs-razrabotchik\Lessons_C\Task1\obj\Debug\net7.0\Task1.AssemblyInfo.cs
+D:\2024-kurs-razrabotchik\Lessons_C\Task1\obj\Debug\net7.0\Task1.csproj.CoreCompileInputs.cache
+D:\2024-kurs-razrabotchik\Lessons_C\Task1\obj\Debug\net7.0\Task1.dll
+D:\2024-kurs-razrabotchik\Lessons_C\Task1\obj\Debug\net7.0\refint\Task1.dll
+D:\2024-kurs-razrabotchik\Lessons_C\Task1\obj\Debug\net7.0\Task1.pdb
+D:\2024-kurs-razrabotchik\Lessons_C\Task1\obj\Debug\net7.0\Task1.genruntimeconfig.cache
+D:\2024-kurs-razrabotchik\Lessons_C\Task1\obj\Debug\net7.0\ref\Task1.dll
