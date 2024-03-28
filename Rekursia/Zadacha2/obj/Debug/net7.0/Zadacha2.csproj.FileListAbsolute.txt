@@ -1,0 +1,14 @@
+D:\2024-kurs-razrabotchik\Lessons_C\Rekursia\Zadacha2\bin\Debug\net7.0\Zadacha2.exe
+D:\2024-kurs-razrabotchik\Lessons_C\Rekursia\Zadacha2\bin\Debug\net7.0\Zadacha2.deps.json
+D:\2024-kurs-razrabotchik\Lessons_C\Rekursia\Zadacha2\bin\Debug\net7.0\Zadacha2.runtimeconfig.json
+D:\2024-kurs-razrabotchik\Lessons_C\Rekursia\Zadacha2\bin\Debug\net7.0\Zadacha2.dll
+D:\2024-kurs-razrabotchik\Lessons_C\Rekursia\Zadacha2\bin\Debug\net7.0\Zadacha2.pdb
+D:\2024-kurs-razrabotchik\Lessons_C\Rekursia\Zadacha2\obj\Debug\net7.0\Zadacha2.GeneratedMSBuildEditorConfig.editorconfig
+D:\2024-kurs-razrabotchik\Lessons_C\Rekursia\Zadacha2\obj\Debug\net7.0\Zadacha2.AssemblyInfoInputs.cache
+D:\2024-kurs-razrabotchik\Lessons_C\Rekursia\Zadacha2\obj\Debug\net7.0\Zadacha2.AssemblyInfo.cs
+D:\2024-kurs-razrabotchik\Lessons_C\Rekursia\Zadacha2\obj\Debug\net7.0\Zadacha2.csproj.CoreCompileInputs.cache
+D:\2024-kurs-razrabotchik\Lessons_C\Rekursia\Zadacha2\obj\Debug\net7.0\Zadacha2.dll
+D:\2024-kurs-razrabotchik\Lessons_C\Rekursia\Zadacha2\obj\Debug\net7.0\refint\Zadacha2.dll
+D:\2024-kurs-razrabotchik\Lessons_C\Rekursia\Zadacha2\obj\Debug\net7.0\Zadacha2.pdb
+D:\2024-kurs-razrabotchik\Lessons_C\Rekursia\Zadacha2\obj\Debug\net7.0\Zadacha2.genruntimeconfig.cache
+D:\2024-kurs-razrabotchik\Lessons_C\Rekursia\Zadacha2\obj\Debug\net7.0\ref\Zadacha2.dll

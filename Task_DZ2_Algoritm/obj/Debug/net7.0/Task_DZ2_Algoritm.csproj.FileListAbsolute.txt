@@ -1,0 +1,14 @@
+D:\2024-kurs-razrabotchik\Lessons_C\Task_DZ2_Algoritm\bin\Debug\net7.0\Task_DZ2_Algoritm.exe
+D:\2024-kurs-razrabotchik\Lessons_C\Task_DZ2_Algoritm\bin\Debug\net7.0\Task_DZ2_Algoritm.deps.json
+D:\2024-kurs-razrabotchik\Lessons_C\Task_DZ2_Algoritm\bin\Debug\net7.0\Task_DZ2_Algoritm.runtimeconfig.json
+D:\2024-kurs-razrabotchik\Lessons_C\Task_DZ2_Algoritm\bin\Debug\net7.0\Task_DZ2_Algoritm.dll
+D:\2024-kurs-razrabotchik\Lessons_C\Task_DZ2_Algoritm\bin\Debug\net7.0\Task_DZ2_Algoritm.pdb
+D:\2024-kurs-razrabotchik\Lessons_C\Task_DZ2_Algoritm\obj\Debug\net7.0\Task_DZ2_Algoritm.GeneratedMSBuildEditorConfig.editorconfig
+D:\2024-kurs-razrabotchik\Lessons_C\Task_DZ2_Algoritm\obj\Debug\net7.0\Task_DZ2_Algoritm.AssemblyInfoInputs.cache
+D:\2024-kurs-razrabotchik\Lessons_C\Task_DZ2_Algoritm\obj\Debug\net7.0\Task_DZ2_Algoritm.AssemblyInfo.cs
+D:\2024-kurs-razrabotchik\Lessons_C\Task_DZ2_Algoritm\obj\Debug\net7.0\Task_DZ2_Algoritm.csproj.CoreCompileInputs.cache
+D:\2024-kurs-razrabotchik\Lessons_C\Task_DZ2_Algoritm\obj\Debug\net7.0\Task_DZ2_Algoritm.dll
+D:\2024-kurs-razrabotchik\Lessons_C\Task_DZ2_Algoritm\obj\Debug\net7.0\refint\Task_DZ2_Algoritm.dll
+D:\2024-kurs-razrabotchik\Lessons_C\Task_DZ2_Algoritm\obj\Debug\net7.0\Task_DZ2_Algoritm.pdb
+D:\2024-kurs-razrabotchik\Lessons_C\Task_DZ2_Algoritm\obj\Debug\net7.0\Task_DZ2_Algoritm.genruntimeconfig.cache
+D:\2024-kurs-razrabotchik\Lessons_C\Task_DZ2_Algoritm\obj\Debug\net7.0\ref\Task_DZ2_Algoritm.dll

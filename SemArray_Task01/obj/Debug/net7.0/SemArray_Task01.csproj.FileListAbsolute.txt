@@ -1,0 +1,14 @@
+D:\2024-kurs-razrabotchik\Lessons_C\SemArray_Task01\bin\Debug\net7.0\SemArray_Task01.exe
+D:\2024-kurs-razrabotchik\Lessons_C\SemArray_Task01\bin\Debug\net7.0\SemArray_Task01.deps.json
+D:\2024-kurs-razrabotchik\Lessons_C\SemArray_Task01\bin\Debug\net7.0\SemArray_Task01.runtimeconfig.json
+D:\2024-kurs-razrabotchik\Lessons_C\SemArray_Task01\bin\Debug\net7.0\SemArray_Task01.dll
+D:\2024-kurs-razrabotchik\Lessons_C\SemArray_Task01\bin\Debug\net7.0\SemArray_Task01.pdb
+D:\2024-kurs-razrabotchik\Lessons_C\SemArray_Task01\obj\Debug\net7.0\SemArray_Task01.GeneratedMSBuildEditorConfig.editorconfig
+D:\2024-kurs-razrabotchik\Lessons_C\SemArray_Task01\obj\Debug\net7.0\SemArray_Task01.AssemblyInfoInputs.cache
+D:\2024-kurs-razrabotchik\Lessons_C\SemArray_Task01\obj\Debug\net7.0\SemArray_Task01.AssemblyInfo.cs
+D:\2024-kurs-razrabotchik\Lessons_C\SemArray_Task01\obj\Debug\net7.0\SemArray_Task01.csproj.CoreCompileInputs.cache
+D:\2024-kurs-razrabotchik\Lessons_C\SemArray_Task01\obj\Debug\net7.0\SemArray_Task01.dll
+D:\2024-kurs-razrabotchik\Lessons_C\SemArray_Task01\obj\Debug\net7.0\refint\SemArray_Task01.dll
+D:\2024-kurs-razrabotchik\Lessons_C\SemArray_Task01\obj\Debug\net7.0\SemArray_Task01.pdb
+D:\2024-kurs-razrabotchik\Lessons_C\SemArray_Task01\obj\Debug\net7.0\SemArray_Task01.genruntimeconfig.cache
+D:\2024-kurs-razrabotchik\Lessons_C\SemArray_Task01\obj\Debug\net7.0\ref\SemArray_Task01.dll
